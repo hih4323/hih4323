@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hih4323
-- 👀 I’m interested in programming with Python
-- 🌱 I’m currently learning the Python programming language
+- 👀 I’m programming with Python and C#
+- 🌱 I’m currently learning the C# programming language
 - 📫 How to reach me (PM)
 
 <!---
